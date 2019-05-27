@@ -1,0 +1,6 @@
+[2019-05-27 15:39:55.998681]: A trace severity message
+[2019-05-27 15:39:56.017629]: A debug severity message
+[2019-05-27 15:39:56.018627]: An informational severity message
+[2019-05-27 15:39:56.018627]: A warning severity message
+[2019-05-27 15:39:56.018627]: An error severity message
+[2019-05-27 15:39:56.018627]: A fatal severity message
